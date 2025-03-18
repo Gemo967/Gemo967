@@ -7,13 +7,10 @@
 
 - 💬 Ask me about **C++ , Java**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/emre-giray-%C3%A7ift%C3%A7i-162a492a7/](https://www.linkedin.com/in/emre-giray-%C3%A7ift%C3%A7i-162a492a7/)
-
 - ⚡ Fun fact **I am a good LoL player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emre gi̇ray çi̇ftçi̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre gi̇ray çi̇ftçi̇" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:29986909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:29986909" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/youzen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="youzen" height="30" width="40" /></a>
 </p>
