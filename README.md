@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emre Giray</h1>
-<h3 align="center">a juniour coder from Turkey</h3>
+<h3 align="center">a junior coder from Turkey</h3>
 
 - 🌱 I’m currently learning **SQL and Python**
 
