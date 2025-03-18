@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Emre Giray</h1>
 <h3 align="center">a juniour coder from Turkey</h3>
 
-- 🌱 I’m currently learning **SQL and Pyhton**
+- 🌱 I’m currently learning **SQL and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gemo967](https://github.com/Gemo967)
+- 👨‍💻 All of my projects are available at [gemo9652@gmail.com](gemo9652@gmail.com)
 
 - 💬 Ask me about **C++ , Java**
-
-- 📫 How to reach me **egirayciftci19@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/emre-giray-%C3%A7ift%C3%A7i-162a492a7/](https://www.linkedin.com/in/emre-giray-%C3%A7ift%C3%A7i-162a492a7/)
 
@@ -17,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/emre gi̇ray çi̇ftçi̇" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre gi̇ray çi̇ftçi̇" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:29986909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:29986909" height="30" width="40" /></a>
-<a href="https://instagram.com/emgryc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emgryc" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/youzen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="youzen" height="30" width="40" /></a>
 </p>
 
